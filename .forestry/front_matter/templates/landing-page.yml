@@ -51,8 +51,8 @@ fields:
   - name: icon
     label: Icon
     type: file
-    hidden: false
-    default: ''
+    hidden: true
+    default: "/uploads/2017/11/13/CNODES-logo-lg.jpg"
   hidden: false
   default: ''
 - type: boolean
