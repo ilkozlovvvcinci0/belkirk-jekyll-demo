@@ -8,3 +8,7 @@ state: NY
 postal_code: 10006
 country: US
 twitter: forestryio
+menu:
+  navigation:
+    weight: 4
+    title: Blog
